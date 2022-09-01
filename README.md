@@ -4,4 +4,4 @@ NPM	: 2106704156
 
 Kelas	: B
 
-Hobi	: Bermain Game
+Hobi	: Menonton YouTube
